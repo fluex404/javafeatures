@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c0f8b19-05e7-483e-9e24-efcd065d5f78" name="Default Changelist" comment="" />
+    <list default="true" id="2c0f8b19-05e7-483e-9e24-efcd065d5f78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/java7/BinaryLiteralsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/java7/MultipleExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/java7/StringInSwitchStatementExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/java7/TryWithResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/AnnotationExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/AnnotationExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/AssertExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/AssertExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/EnumExample$Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/EnumExample$Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/EnumExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/EnumExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/EnumExample2$Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/EnumExample2$Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/EnumExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/EnumExample2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/GenericExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/GenericExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/MyAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/MyAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/MyGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/MyGen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/StaticImportExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/java5And4/StaticImportExample.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,9 +50,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1UflNtHKdEhx2jrfRzpZRNew0f3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,39 +71,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericExample">
-    <configuration name="AnnotationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fluex404.java5And4.AnnotationExample" />
+  <component name="RunManager" selected="Application.TryWithResources">
+    <configuration name="BinaryLiteralsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fluex404.java7.BinaryLiteralsExample" />
       <module name="javafeatures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fluex404.java5And4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fluex404.java5And4.EnumExample" />
-      <module name="javafeatures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fluex404.java5And4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnumExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fluex404.java5And4.EnumExample2" />
-      <module name="javafeatures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fluex404.java5And4.*" />
+          <option name="PATTERN" value="com.fluex404.java7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +98,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Season" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fluex404.java5And4.Season" />
+    <configuration name="MultipleExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fluex404.java7.MultipleExceptionExample" />
       <module name="javafeatures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fluex404.java5And4.*" />
+          <option name="PATTERN" value="com.fluex404.java7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringInSwitchStatementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fluex404.java7.StringInSwitchStatementExample" />
+      <module name="javafeatures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fluex404.java7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryWithResources" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fluex404.java7.TryWithResources" />
+      <module name="javafeatures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fluex404.java7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryWithResources" />
+        <item itemvalue="Application.MultipleExceptionExample" />
+        <item itemvalue="Application.StringInSwitchStatementExample" />
+        <item itemvalue="Application.BinaryLiteralsExample" />
         <item itemvalue="Application.GenericExample" />
-        <item itemvalue="Application.AnnotationExample" />
-        <item itemvalue="Application.EnumExample2" />
-        <item itemvalue="Application.Season" />
-        <item itemvalue="Application.EnumExample" />
       </list>
     </recent_temporary>
   </component>
@@ -127,11 +159,22 @@
       <updated>1575755493191</updated>
       <workItem from="1575755495047" duration="2922000" />
       <workItem from="1575777376496" duration="3729000" />
-      <workItem from="1575885598584" duration="2779000" />
+      <workItem from="1575885598584" duration="6283000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
