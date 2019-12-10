@@ -9,12 +9,17 @@ package com.fluex404.java8;
  * It is a new feature in java, which helps to achieve functional programming approach.
  */
 
-public class FunctionalInterfaceExample {
+public class FunctionalInterfaceExample implements sayable{
     public static void main(String[] args) {
+        FunctionalInterfaceExample f = new FunctionalInterfaceExample();
+        f.say("Hallo there");
+    }
 
+    @Override
+    public void say(String msg) {
+        System.out.println(msg);
     }
-    @FunctionalInterface
-    interface sayable{
-        void say(String msg);
-    }
+}
+interface sayable{
+    void say(String msg);
 }
