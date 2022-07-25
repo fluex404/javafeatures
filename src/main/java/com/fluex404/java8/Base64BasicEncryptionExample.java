@@ -1,6 +1,5 @@
 package com.fluex404.java8;
 
-import sun.misc.BASE64Decoder;
 
 import java.util.Base64;
 
